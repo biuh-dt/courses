@@ -1,6 +1,5 @@
 # Digital Technologies
 
-<b>Coordinator</b>: ZHANG Feng, PHD, ASSOC PROF (feng.zhang at hainan-biuh.edu.cn)
 
 ## Formal Coueses
 
