@@ -33,7 +33,7 @@
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20">
 
 
-## Main Course - Proteins
+## Main Course - Proteins & Veggies
 
 *Program-Specific Courses*
 
