@@ -1,8 +1,9 @@
 # Courses in Digital Technologies
 
-Coordinator: ZHANG Feng, PHD, ASSOC PROF (feng.zhang at hainan-biuh.edu.cn)
+<b>Coordinator</b>: <br>
+ZHANG Feng, PHD, ASSOC PROF (feng.zhang at hainan-biuh.edu.cn)
 
-Note: "course" is also referred to as "module"
+<b>Note</b>: "course" is also referred to as "module"
 
 ## Formal Coueses
 
