@@ -48,7 +48,7 @@
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20">
 
 
-## Dessert (Projects and Competitions)
+## Dessert (Projects & Competitions)
 
 - [Dessert_Info_Board](Dessert_Info_Board)
 
