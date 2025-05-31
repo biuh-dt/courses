@@ -7,7 +7,7 @@
 
 ## Appetizer
 
-<b> Prerequisite Knowledge </b>
+*Prerequisite Knowledge*
 
 - [Linux_Server_Operation](Linux_Server_Operation)
 
@@ -18,7 +18,9 @@
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20">
 
 
-## Main Course - Carbohydrates (Fundamental Courses)
+## Main Course - Carbohydrates
+
+*Fundamental Courses*
 
 - [Mathematics_I](Mathematics_I)
 
@@ -31,7 +33,9 @@
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20">
 
 
-## Main Course - Proteins (Program-Specific Courses)
+## Main Course - Proteins
+
+*Program-Specific Courses*
 
 - [Algorithms_and_Data_Structures](Algorithms_and_Data_Structures)
 
@@ -50,7 +54,9 @@
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20">
 
 
-## Dessert (Projects & Competitions)
+## Dessert
+
+*Projects & Competitions*
 
 - [Information_Board](Information_Board)
 
