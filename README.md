@@ -50,7 +50,7 @@
 
 ## Dessert (Projects & Competitions)
 
-- [Dessert_Info_Board](Dessert_Info_Board)
+- [Information_Board](Information_Board)
 
 
 
