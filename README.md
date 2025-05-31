@@ -8,11 +8,11 @@
 
 ## Bread (Fundamental Courses)
 
-- Mathematics I
+- Mathematics_I
 
-- Mathematics II
+- Mathematics_II
 
-- Mathematics III
+- Mathematics_III
 
 - Statistics
 
