@@ -1,6 +1,6 @@
-# Coueses
+# Courses in Digital Technologies
 
-Note: courses are also referred to as modules
+Note: "course" is also referred to as "module"
 
 ## Formal Coueses
 
