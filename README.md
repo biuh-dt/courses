@@ -1,7 +1,10 @@
-# Digital Technologies
+# Menu of Digital Technologies
 
+## Appetizer (Prerequisite Knowledge)
 
-## Formal Coueses
+- [Linux_Server_Operation](Linux_Server_Operation)
+
+## Full Meal (Formal Coueses)
 
 - [Algorithms_and_Data_Structures](Algorithms_and_Data_Structures)
 
@@ -18,9 +21,7 @@
 - [Web_Technologies](Web_Technologies)
 
 
-## Supplementary Materials
 
-- [Linux_Server_Operation](Linux_Server_Operation)
 
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="1">
