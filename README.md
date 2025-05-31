@@ -6,17 +6,17 @@
 
 - [Linux_Server_Operation](Linux_Server_Operation)
 
-## Bread (Fundamental Courses)
+## Main Course - Carbohydrates (Fundamental Courses)
 
-- Mathematics_I
+- [Mathematics_I](Mathematics_I)
 
-- Mathematics_II
+- [Mathematics_II](Mathematics_II)
 
-- Mathematics_III
+- [Mathematics_III](Mathematics_III)
 
-- Statistics
+- [Statistics](Statistics)
 
-## Main Course (Program-Specific Courses)
+## Main Course - Proteins (Program-Specific Courses)
 
 - [Algorithms_and_Data_Structures](Algorithms_and_Data_Structures)
 
