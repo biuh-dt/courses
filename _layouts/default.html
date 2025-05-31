@@ -75,7 +75,17 @@
           {{ content }}
       </div>
 
-      <script>
+        
+
+      </section>
+      <footer>
+
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+
+
+    <script>
           onst correctPassword = "dt@biuh";  // 修改为你想设置的密码
           function checkPassword() {
               const input = document.getElementById("password").value;
@@ -85,20 +95,11 @@
                   document.getElementById("password-form").style.display = "none";
                   document.getElementById("protected-content").style.display = "block";
               } else {
-                  message.textContent = "Wrong";
+                  message.textContent = "Wrong!";
               }
           }
-       </script>
+     </script>
 
-
-        
-
-      </section>
-      <footer>
-
-      </footer>
-    </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     
   </body>
 </html>
