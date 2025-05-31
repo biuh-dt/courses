@@ -1,5 +1,7 @@
 # courses
 
+## Formal Modules
+
 - [Algorithms_and_Data_Structures](Algorithms_and_Data_Structures)
 
 - [Data_Mining](Data_Mining)
@@ -13,6 +15,7 @@
 - [Web_Technologies](Web_Technologies)
 
 
+## Supplementary 
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
