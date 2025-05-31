@@ -5,7 +5,9 @@
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20">
 
 
-## Appetizer (Prerequisite Knowledge)
+## Appetizer
+
+### Prerequisite Knowledge
 
 - [Linux_Server_Operation](Linux_Server_Operation)
 
