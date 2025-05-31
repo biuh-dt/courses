@@ -6,7 +6,17 @@
 
 - [Linux_Server_Operation](Linux_Server_Operation)
 
-## Full Meal (Formal Coueses)
+## Bread (Fundamental Courses)
+
+- Mathematics I
+
+- Mathematics II
+
+- Mathematics III
+
+- Statistics
+
+## Main Course (Program-Specific Courses)
 
 - [Algorithms_and_Data_Structures](Algorithms_and_Data_Structures)
 
