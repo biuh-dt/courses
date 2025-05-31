@@ -37,20 +37,25 @@
 
 *Program-Specific Courses*
 
-- [Algorithms_and_Data_Structures](Algorithms_and_Data_Structures)
+- [Foundations_of_Data_Science_Information_Privacy](Foundations_of_Data_Science_Information_Privacy)
 
-- [Data_Mining](Data_Mining)
+- [Principles_of_Computer_Science](Principles_of_Computer_Science)
 
-- [Database](Database)
-
-- [Machine_Learning](Machine_Learning)
+- [Fundamentals_of_Business_Administration](Fundamentals_of_Business_Administration)
 
 - [Networking_and_IoT_Solutions](Networking_and_IoT_Solutions)
 
 - [Object_Oriented_Programming](Object_Oriented_Programming)
 
+- [Database](Database)
+
+- [Algorithms_and_Data_Structures](Algorithms_and_Data_Structures)
+
+- [Data_Mining](Data_Mining)
+
 - [Web_Technologies](Web_Technologies)
 
+- [Machine_Learning](Machine_Learning)
 
 *Update in progress......*
 
