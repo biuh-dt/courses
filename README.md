@@ -1,6 +1,6 @@
 # Menu of Digital Technologies
 
-Guten Appetit!
+*Guten Appetit!*
 
 ## Appetizer (Prerequisite Knowledge)
 
