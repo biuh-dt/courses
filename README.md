@@ -1,5 +1,7 @@
 # Menu of Digital Technologies
 
+Guten Appetit!
+
 ## Appetizer (Prerequisite Knowledge)
 
 - [Linux_Server_Operation](Linux_Server_Operation)
@@ -20,7 +22,9 @@
 
 - [Web_Technologies](Web_Technologies)
 
+## Dessert (Internships, Projects, and Competitions)
 
+- [Dessert_Info_Board](Dessert_Info_Board)
 
 
 
