@@ -2,9 +2,16 @@
 
 *Guten Appetit!*
 
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
+
 ## Appetizer (Prerequisite Knowledge)
 
 - [Linux_Server_Operation](Linux_Server_Operation)
+
+- [Office_Software_Operation](Office_Software_Operation)
+
+- [Scientific_Writing_and_Presentation](Scientific_Writing_and_Presentation)
+
 
 ## Main Course - Carbohydrates (Fundamental Courses)
 
