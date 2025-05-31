@@ -7,7 +7,7 @@
 
 ## Appetizer
 
-### Prerequisite Knowledge
+<b> Prerequisite Knowledge </b>
 
 - [Linux_Server_Operation](Linux_Server_Operation)
 
