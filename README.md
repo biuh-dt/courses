@@ -1,6 +1,8 @@
-# courses
+# Coueses
 
-## Formal Modules
+Note: courses are also referred to as modules
+
+## Formal Coueses
 
 - [Algorithms_and_Data_Structures](Algorithms_and_Data_Structures)
 
@@ -12,12 +14,12 @@
 
 - [Networking_and_IoT_Solutions](Networking_and_IoT_Solutions)
 
+- [Object_Oriented_Programming](Object_Oriented_Programming)
+
 - [Web_Technologies](Web_Technologies)
 
 
-## Supplementary 
+## Supplementary materials
 
+- [Linux_Server_Operation](Linux_Server_Operation)
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-[GitHub](https://github.com/biuh-dt/courses)
