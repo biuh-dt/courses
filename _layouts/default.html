@@ -51,7 +51,36 @@
       </header>
       <section>
 
-      {{ content }}
+        
+      <div id="password-form">
+           <h2>Password</h2>
+           <input type="password" id="password" placeholder="Password">
+            <button onclick="checkPassword()">submit</button>
+          <p id="message" style="color:red;"></p>
+      </div>
+
+      
+      <div id="protected-content">      
+          {{ content }}
+      </div>
+
+      <script>
+          onst correctPassword = "dt@biuh";  // 修改为你想设置的密码
+          function checkPassword() {
+              const input = document.getElementById("password").value;
+              const message = document.getElementById("message");
+
+              if (input === correctPassword) {
+                  document.getElementById("password-form").style.display = "none";
+                  document.getElementById("protected-content").style.display = "block";
+              } else {
+                  message.textContent = "Wrong";
+              }
+          }
+       </script>
+
+
+        
 
       </section>
       <footer>
