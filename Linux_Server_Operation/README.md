@@ -5,7 +5,7 @@
 
 ## Linux Server Operation
 
-- [s01_Termius](s01_Termius)
+- [s01_Login](s01_Login)
 
 - [s02_LinuxBasic](s02_LinuxBasic)
 
