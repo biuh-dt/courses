@@ -3,8 +3,6 @@
 
 ## Linux Server Operation
 
-<br>
-
 - [s01_Termius](s01_Termius)
 
 - [s02_LinuxBasic](s02_LinuxBasic)
