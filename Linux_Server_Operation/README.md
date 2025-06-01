@@ -1,6 +1,6 @@
 
 <br>
-<p align="right">
+<p align="left">
   <img src="img/20250601_server_btop.jpg" width="500">
 </p>
 
