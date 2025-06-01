@@ -1,7 +1,5 @@
-<div style="display: flex; justify-content: flex-start; align-items: center; height: 100vh;">
 
-<p style="text-align: left;">
-
+<br><br><br><br><br><br>
 
 ## Linux Server Operation
 
@@ -15,9 +13,7 @@
 
 
 
-</p>
 
-</div>
 
 
 
