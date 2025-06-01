@@ -1,7 +1,9 @@
 
-<br><br><br><br><br><br>
+<br>
 
 ## Linux Server Operation
+
+<br>
 
 - [s01_Termius](s01_Termius)
 
