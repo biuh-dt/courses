@@ -1,5 +1,9 @@
 
 <br>
+<p align="right">
+  <img src="img/20250601_server_btop.jpg" width="500">
+</p>
+
 
 ## Linux Server Operation
 
