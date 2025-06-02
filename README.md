@@ -6,8 +6,7 @@
 </p>
 
 
-<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
-
+<br><br>
 
 *Guten Appetit !!!*
 
