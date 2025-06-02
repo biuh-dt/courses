@@ -2,6 +2,6 @@
 
 <br><br><br>
 
-# Object-Oriented Programming
+## Object-Oriented Programming
 
-# [Link to Content](https://www.bioinfo-lab.com/courses/Object_Oriented_Programming/)
+### [Link to Content](https://www.bioinfo-lab.com/courses/Object_Oriented_Programming/)
