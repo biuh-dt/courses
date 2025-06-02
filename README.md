@@ -1,4 +1,13 @@
-<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20">
+
+<p align="right">
+  <img src="/img/20250530_class_room_small.jpeg" width="500">
+  <br>
+  2025-05-30-14:31-Lab Building-BiUH
+</p>
+
+
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
+
 
 # *Guten Appetit !!!*
 
