@@ -2,7 +2,7 @@
 <p align="right">
   <img src="/img/20250530_class_room_small.jpg" width="500">
   <br>
-  2025-05-30-14:20-Class Room-BiUH
+  2025-05-30-14:20-Classroom-BiUH
 </p>
 
 
