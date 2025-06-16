@@ -27,7 +27,7 @@ Students:
 - gain the ability to evaluate and select database technologies
 - can plan and implement database projects and develop a modern database application
 
-Learning contents
+Learning contents:
 - Introduction to database concepts and database technologies (data modelling, normalization theory, database language SQL)
 - Basics of database systems (database design, database definitions, database queries)
 - Data Manipulation Language (DML)
@@ -48,5 +48,5 @@ Final Grade Assignment total possible points = 1000
 - Final database design presentation 100 points
 - Class participation 50 points
 
-**Only on-time assignments are eligible for revision. Revise from the graded file rather than from a new one, so comments left in the graded file can be seen, or no credit for revision.**\
+**Only on-time assignments are eligible for revision. Revise from the graded file rather than from a new one, so comments left in the graded file can be seen, or no credit for revision.**
 
