@@ -1,9 +1,9 @@
-**Course Title and number: 	DT 3019 Database**
-**Instructor:	Dr. Dejang Liu, Professor**
-**Prerequisite(s):	Any college-level programming class or consent of the instructor**
-**Start week of:	Sep. 1, 2025**
-**End week of:	Nov. 17, 2025**
-**DT 3019 Database 5 credit hours**
+Course Title and number: 	**DT 3019 Database**\
+Instructor:	**Dr. Dejang Liu, Professor**\
+Prerequisite(s):	**Any college-level programming class or consent of the instructor**\
+Start week of:	**Sep. 1, 2025**\
+End week of:	**Nov. 17, 2025**\
+Credit hours: **5 credit hours**
 
 # Course Materials
 ## Textbook:
@@ -36,16 +36,17 @@ Learning contents
 - Efficiency of SQL queries, index structure
 - Authorization concepts
 
-## Final Grade Assignment
-Final Grade Assignment
-Total Possible Points = 1000	
-A (90%)     900-1000 points  
-B (80%)     800-899 points  
-C (70%)     700-799 points
-D (60%)     600-699 points  
-F	    	 0-599 points
-Assignments 850 points
-Final database design presentation 100 points
-Class participation 50 points
+## Final Grade Scales
+Final Grade Assignment total possible points = 1000	
+- A (90%)     900-1000 points  
+- B (80%)     800-899 points  
+- C (70%)     700-799 points
+- D (60%)     600-699 points  
+- F	    	 0-599 points
+## Grade Allocations
+- Assignments 850 points
+- Final database design presentation 100 points
+- Class participation 50 points
 
-Only on-time assignments are eligible for revision. Revise from the graded file rather than from a new one, so comments left in the graded file can be seen, or no credit for revision.
+**Only on-time assignments are eligible for revision. Revise from the graded file rather than from a new one, so comments left in the graded file can be seen, or no credit for revision.**\
+
