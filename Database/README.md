@@ -47,8 +47,18 @@ Final Grade Assignment total possible points = 1000
 - Assignments 850 points
 - Final database design presentation 100 points
 - Class participation 50 points
-
 **Only on-time assignments are eligible for revision. Revise from the graded file rather than from a new one, so comments left in the graded file can be seen, or no credit for revision.**
+
+##Database design presentation requirements and guidelines
+1.	Form a group of up to 3 members\
+2.	Obtain instructor approval for your E-R (Entity-Relationship) diagram before proceeding\
+3.	At least one pair of tables with a one-to-many relationship\
+4.	Create a database by using any database management software of your choice\
+5.	Generate and insert sample records into your tables\
+6.	Maximum 10-minute presentation covering the following:\
+    a.	E-R diagram\
+    b.	Methods used to create tables\
+    c.	Methods used to insert records
 
 ## Lecture tentative schedule
 ![schedule](https://github.com/biuh-dt/courses/blob/main/Database/schedule.png)
