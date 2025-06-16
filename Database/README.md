@@ -7,7 +7,7 @@ DT 3019 Database 5 credit hours
 
 # Course Materials
 ## Textbook:
- 
+
 Database Systems Concepts, by Abraham Silberschatz, Henry Korth, and S. Sudarshan, 7th Ed., ISBN10: 0078022150, ISBN13: 9780078022159, https://www.mheducation.com/
 
 ## Software (optional, not required):
@@ -21,19 +21,20 @@ Database Systems Concepts, by Abraham Silberschatz, Henry Korth, and S. Sudarsha
 
 ## Learning outcomes/competences
 Students:
-• acquire basic knowledge about the architecture, functioning, and use of database systems, and know the principles of the organization of a database system
-• acquire knowledge about modern (object-oriented) and classic data modelling, including the meaning of normalization rules
-• are able to perform a complete relational database design, starting from a requirements specification,n are proficient in standard SQL to perform simple and complex queries, as well as change operations.
-• gain the ability to evaluate and select database technologies
-• can plan and implement database projects and develop a modern database application
+- acquire basic knowledge about the architecture, functioning, and use of database systems, and know the principles of the organization of a database system
+- acquire knowledge about modern (object-oriented) and classic data modelling, including the meaning of normalization rules
+- are able to perform a complete relational database design, starting from a requirements specification,n are proficient in standard SQL to perform simple and complex queries, as well as change operations.
+- gain the ability to evaluate and select database technologies
+- can plan and implement database projects and develop a modern database application
+
 Learning contents
-•	Introduction to database concepts and database technologies (data modelling, normalization theory, database language SQL)
-•	Basics of database systems (database design, database definitions, database queries)
-•	Data Manipulation Language (DML)
-•	Data Definition Language (DDL)
-•	Data Control Language (DCL)
-•	Efficiency of SQL queries, index structure
-•	Authorization concepts
+- Introduction to database concepts and database technologies (data modelling, normalization theory, database language SQL)
+- Basics of database systems (database design, database definitions, database queries)
+- Data Manipulation Language (DML)
+- Data Definition Language (DDL)
+- Data Control Language (DCL)
+- Efficiency of SQL queries, index structure
+- Authorization concepts
 
 ## Final Grade Assignment
 Final Grade Assignment
