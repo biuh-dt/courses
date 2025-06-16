@@ -52,6 +52,6 @@ Final Grade Assignment total possible points = 1000
 
 ## Lecture tentative schedule
 | Week begins |       Contents                             |         Assignments               | Revision due date|
--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 |   9/1       | Ch 1 Introduction                         |      Exercise 1.11 (pg 32, 25 pts)  |       9/28      |
-|             | Ch 2 Introduction to the relational model| 2.16 (pg 62, 25 pts) due 9/7|         |
+|   9/1      | Ch 2 Introduction to the relational model | 2.16 (pg 62, 25 pts) due 9/7|       |       9/28      |
