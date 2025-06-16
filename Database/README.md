@@ -23,7 +23,7 @@ Database Systems Concepts, by Abraham Silberschatz, Henry Korth, and S. Sudarsha
 Students:
 - acquire basic knowledge about the architecture, functioning, and use of database systems, and know the principles of the organization of a database system
 - acquire knowledge about modern (object-oriented) and classic data modelling, including the meaning of normalization rules
-- are able to perform a complete relational database design, starting from a requirements specification,n are proficient in standard SQL to perform simple and complex queries, as well as change operations.
+- are able to perform a complete relational database design, starting from a requirements specification, and are proficient in standard SQL to perform simple and complex queries, as well as change operations.
 - gain the ability to evaluate and select database technologies
 - can plan and implement database projects and develop a modern database application
 
