@@ -17,6 +17,7 @@ Software (optional, not required):
 •	Oracle SQL+/iSQL (www.oracle.com)
 •	Browser: Mozilla Firefox or Google Chrome
 •	Microsoft Visio, Word, PowerPoint or similar tools to draw
+
 Learning outcomes/competences
 Students:
 • acquire basic knowledge about the architecture, functioning, and use of database systems, and know the principles of the organization of a database system
@@ -44,4 +45,4 @@ Assignments 850 points
 Final database design presentation 100 points
 Class participation 50 points
 
-Only on-time assignments are eligible for revision. Revise from the graded file rather than from a new one, so comment left in the graded file can be seen, or no credit for revision.
+Only on-time assignments are eligible for revision. Revise from the graded file rather than from a new one, so comments left in the graded file can be seen, or no credit for revision.
