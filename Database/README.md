@@ -51,4 +51,4 @@ Final Grade Assignment total possible points = 1000
 **Only on-time assignments are eligible for revision. Revise from the graded file rather than from a new one, so comments left in the graded file can be seen, or no credit for revision.**
 
 ## Lecture tentative schedule
-![schedule]()
+![schedule](https://github.com/biuh-dt/courses/blob/main/Database/schedule.png)
