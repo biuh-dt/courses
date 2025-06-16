@@ -1,11 +1,10 @@
-This is a Repo for Databases Module
-Course Title and number: 	DT 3019 Database
-Instructor:	Dr. Dejang Liu, Professor
-Prerequisite(s):	Any college-level programming class or consent of the instructor
-Start week of:	Sep. 1, 2025
-End week of:	Nov. 17, 2025
+					Course Title and number: 	DT 3019 Database
+					Instructor:	Dr. Dejang Liu, Professor
+					Prerequisite(s):	Any college-level programming class or consent of the instructor
+					Start week of:	Sep. 1, 2025
+					End week of:	Nov. 17, 2025
 
-Database 5 credit hours
+DT 3019 Database 5 credit hours
 Course Materials
 Textbook:
  
