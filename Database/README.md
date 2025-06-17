@@ -12,7 +12,8 @@ Credit hours: **5 credit hours**
 # Course Materials
 ## Textbook:
 ![TextBook cover image](https://courses.biuh-dt.com/Database/coverPicture.png)\
-Database Systems Concepts, by Abraham Silberschatz, Henry Korth, and S. Sudarshan, 7th Ed., ISBN10: 0078022150, ISBN13: 9780078022159, https://www.mheducation.com/
+Database Systems Concepts, by Abraham Silberschatz, Henry Korth, and S. Sudarshan, 7th Ed.\
+ISBN10: 0078022150, ISBN13: 9780078022159, https://www.mheducation.com/
 
 ## Software (optional, not required):
 - Microsoft Access
@@ -66,7 +67,7 @@ Final Grade Assignment total possible points = 1000
     - Methods used to insert records
 
 ## Lecture tentative schedule
-![schedule](https://github.com/biuh-dt/courses/blob/main/Database/schedule.png)
+![schedule](https://courses.biuh-dt.com/Database/schedule.png)
 
 ## Website for a Self-taught SQL application
 
