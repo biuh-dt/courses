@@ -68,6 +68,7 @@ Final Grade Assignment total possible points = 1000
 ## Lecture tentative schedule
 ![schedule](https://github.com/biuh-dt/courses/blob/main/Database/schedule.png)
 
-## Self-taught SQL application for your own learning
+## Website for a Self-taught SQL application
+
 [Web site for SQL tutorials](https://www.techonthenet.com/sql/index.php)
 
