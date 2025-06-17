@@ -1,6 +1,6 @@
 **Download DT3019PPT zip file to your own computer for self-study and lecture purposes**
 
-                                    **Class Syllabus**
+**Class Syllabus**
                                     
 Course Title and number: 	**DT 3019 Database**\
 Instructor:	**Dr. Dejang Liu, Professor**\
