@@ -1,4 +1,4 @@
-**Download DT3019PPT zip file to your own computer for self-study and lecture purposes**
+**Download [DT3019PPT zip file](https://courses.biuh-dt.com/Database/DT3019PPT.zip) to your own computer for self-study and lecture purposes**
 
 **Class Syllabus**
                                     
