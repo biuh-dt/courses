@@ -67,7 +67,7 @@ Final Grade Assignment total possible points = 1000
     - Methods used to insert records
 
 ## Lecture tentative schedule
-![schedule](https://courses.biuh-dt.com/Database/schedule.png)
+![schedule image](https://courses.biuh-dt.com/Database/schedule.png)
 
 ## Website for a Self-taught SQL application
 
