@@ -11,7 +11,7 @@ Credit hours: **5 credit hours**
 
 # Course Materials
 ## Textbook:
-![TextBook cover image](https://github.com/biuh-dt/courses/blob/main/Database/coverPicture.png)\
+![TextBook cover image](https://courses.biuh-dt.com/Database/coverPicture.png)\
 Database Systems Concepts, by Abraham Silberschatz, Henry Korth, and S. Sudarshan, 7th Ed., ISBN10: 0078022150, ISBN13: 9780078022159, https://www.mheducation.com/
 
 ## Software (optional, not required):
