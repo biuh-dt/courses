@@ -1,5 +1,7 @@
-**Download DT3019PPT zip file to your own computer for self-study and lecture purpose**
+**Download DT3019PPT zip file to your own computer for self-study and lecture purposes**
 
+                                    **Class Syllabus**
+                                    
 Course Title and number: 	**DT 3019 Database**\
 Instructor:	**Dr. Dejang Liu, Professor**\
 Prerequisite(s):	**Any college-level programming class or consent of the instructor**\
@@ -65,3 +67,7 @@ Final Grade Assignment total possible points = 1000
 
 ## Lecture tentative schedule
 ![schedule](https://github.com/biuh-dt/courses/blob/main/Database/schedule.png)
+
+## Self-taught SQL application for your own learning
+[Web site for SQL tutorials](https://www.techonthenet.com/sql/index.php)
+
