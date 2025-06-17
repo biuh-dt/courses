@@ -1,3 +1,5 @@
+**Download DT3019PPT zip file to your own computer for self-study and lecture purpose**
+
 Course Title and number: 	**DT 3019 Database**\
 Instructor:	**Dr. Dejang Liu, Professor**\
 Prerequisite(s):	**Any college-level programming class or consent of the instructor**\
