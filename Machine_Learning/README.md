@@ -55,6 +55,8 @@ C (70%)     700-799 points\
 D (60%)     600-699 points\
 F	    	 0-599 points
 
+Schedule
+
 Only on-time assignments are eligible for revision. Revise from the graded file rather than from a new one, so comments left in the graded file can be seen, or no credit for revision.\
 Deadline Date for Withdrawal:\
 Last day to withdraw from DT 3340: ??????, 2025\
