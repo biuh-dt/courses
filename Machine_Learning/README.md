@@ -1,8 +1,8 @@
-Course Title and number: 	DT 3340 Machine Learning
-Instructor:	Dr. Dejang Liu, Professor
-Prerequisite(s):	Any college-level programming class or consent of the instructor
-Start week of:	Sep. 1, 2025
-End week of:	Nov. 24, 2025
+Course Title and number: 	**DT 3340 Machine Learning**/
+Instructor:	**Dr. Dejang Liu, Professor**/
+Prerequisite(s):	**Any college-level programming class or consent of the instructor**/
+Start week of:	**Sep. 1, 2025**/
+End week of:	**Nov. 24, 2025**/
 
 Machine Learning 5 credit hours
 Course Materials
