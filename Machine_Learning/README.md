@@ -57,6 +57,8 @@ F	    	 0-599 points
 
 Schedule
 
+Machine_Learning/ScheduleML.jpg
+
 Only on-time assignments are eligible for revision. Revise from the graded file rather than from a new one, so comments left in the graded file can be seen, or no credit for revision.\
 Deadline Date for Withdrawal:\
 Last day to withdraw from DT 3340: ??????, 2025\
