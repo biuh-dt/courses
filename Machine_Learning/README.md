@@ -7,7 +7,7 @@ End week of:	**Nov. 24, 2025**
 Machine Learning 5 credit hours
 ## Course Materials
 Textbook (reference):
-
+![textbook cover](https://github.com/biuh-dt/courses/blob/main/Machine_Learning/cover.jpg)
 Introduction to machine learning with Python, by Muller, Guido, O’Reilly, 1st edition, 2016, ISBN 978-1-449-36941-5, https://oreilly.com 
 Software (optional or per students’ preference):\
 •	Python\
